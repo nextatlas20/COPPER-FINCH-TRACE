@@ -1,0 +1,4 @@
+product_id,product_name,min_hops,direct_recall_roots,recalled_units_per_item,canonical_path
+PK-103,Harbor Meal,1,PK-101,2,PK-103>PK-101
+PK-109,Festival Crate,1,PK-101+PK-108,5,PK-109>PK-108
+PK-106,Trail Supper,2,PK-101,2,PK-106>PK-103>PK-101

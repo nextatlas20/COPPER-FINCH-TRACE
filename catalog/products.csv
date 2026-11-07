@@ -1,0 +1,10 @@
+product_id,product_name,product_type,direct_recall
+PK-101,Juniper Broth,ingredient,YES
+PK-102,Ember Sauce,ingredient,NO
+PK-103,Harbor Meal,bundle,NO
+PK-104,Orchard Box,bundle,NO
+PK-105,Sungrain Bar,ingredient,NO
+PK-106,Trail Supper,bundle,NO
+PK-107,Lantern Pack,bundle,NO
+PK-108,Cedar Tea,ingredient,YES
+PK-109,Festival Crate,bundle,NO
